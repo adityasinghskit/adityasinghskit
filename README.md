@@ -5,4 +5,4 @@ Hritik, APJ Abdul Kalam, Ratan Tata my inspiration.
 - 🌱 I’m currently learning Springboot
 - 💬 Ask me about: HTML, CSS, JS, Java,
 - 📫 How to reach me: adityasinghskit@gmail.com
-
+- 🌱 Sharing updates on [LinkedIn](https://www.linkedin.com/in/adityasinghskit/).
