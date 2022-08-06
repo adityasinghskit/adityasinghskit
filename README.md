@@ -3,6 +3,6 @@ I am a Backend Developer and work with Java, Spring boot, Hibernate, SQL, HTML, 
 Hritik, APJ Abdul Kalam, Ratan Tata my inspiration.
 
 - 🌱 I’m currently learning Springboot
-- 💬 Ask me about: HTML, CSS, JS, Java,
+- 💬 Ask me about: Java, JS, Hibernate, SQL, Spring Boot
 - 📫 How to reach me: adityasinghskit@gmail.com
 - 🌱 Sharing updates on [LinkedIn](https://www.linkedin.com/in/adityasinghskit/).
