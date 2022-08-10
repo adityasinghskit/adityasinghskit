@@ -20,8 +20,14 @@ Hritik, APJ Abdul Kalam, Ratan Tata my inspiration.
 ![view - Documentation](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript)
 ![view - Documentation](https://img.shields.io/badge/BootStrap-de2ab0?style=for-the-badge&logo=bootstrap)
 
-## Top Projects
-![view - Documentation](https://img.shields.io/badge/Shoppers_Stop_Clone-ffca3a?style=for-the-badge&logo=shopify&link=https://github.com/adityasinghskit/shoppersStop-clone)
-![view - Documentation](https://img.shields.io/badge/Shop.com_Clone-0a0a0a?style=for-the-badge&logo=shopify)
+## My Top Projects
+[![view - Documentation](https://img.shields.io/badge/Shoppers_Stop_Clone-ffca3a?style=for-the-badge&logo=shopify)](https://github.com/adityasinghskit/shoppersStop-clone)
+[![view - Documentation](https://img.shields.io/badge/Shop.com_Clone-0a0a0a?style=for-the-badge&logo=shopify)](https://github.com/adityasinghskit/shop.com)
 ![view - Documentation](https://img.shields.io/badge/Weather_App-80aaed?style=for-the-badge&logo=adobecreativecloud)
 ![view - Documentation](https://img.shields.io/badge/Translator_App-ff595e?style=for-the-badge&logo=googletranslate)
+
+## Let's Connect
+[![view - Documentation](https://img.shields.io/badge/LinkedIn-43bccd?style=for-the-badge&logo=linkedin&)](https://www.linkedin.com/in/adityasinghskit/)
+[![view - Documentation](https://img.shields.io/badge/Twitter-662e9b?style=for-the-badge&logo=twitter)](https://twitter.com/adityasingh2303)
+[![view - Documentation](https://img.shields.io/badge/Porfolio-ea3546?style=for-the-badge&logo=readthedocs)](https://adityaportfolio.dorik.io/)
+[![view - Documentation](https://img.shields.io/badge/Gmail-f86624?style=for-the-badge&logo=gmail)](mailto:adityasinghskit@gmail.com)
