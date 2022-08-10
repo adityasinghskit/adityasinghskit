@@ -21,7 +21,7 @@ Hritik, APJ Abdul Kalam, Ratan Tata my inspiration.
 ![view - Documentation](https://img.shields.io/badge/BootStrap-de2ab0?style=for-the-badge&logo=bootstrap)
 
 ## Top Projects
-![view - Documentation](https://img.shields.io/badge/Shoppers_Stop_Clone-ffca3a?style=for-the-badge&logo=shopify)
+![view - Documentation](https://img.shields.io/badge/Shoppers_Stop_Clone-ffca3a?style=for-the-badge&logo=shopify&link=https://github.com/adityasinghskit/shoppersStop-clone)
 ![view - Documentation](https://img.shields.io/badge/Shop.com_Clone-0a0a0a?style=for-the-badge&logo=shopify)
 ![view - Documentation](https://img.shields.io/badge/Weather_App-80aaed?style=for-the-badge&logo=adobecreativecloud)
 ![view - Documentation](https://img.shields.io/badge/Translator_App-ff595e?style=for-the-badge&logo=googletranslate)
