@@ -3,9 +3,7 @@ I am a Backend Developer and work with Java, Spring boot, Hibernate, SQL, HTML, 
 Hritik, APJ Abdul Kalam, Ratan Tata my inspiration.
 
 - 🌱 I’m currently learning Springboot
-- 💬 Ask me about: Java, JS, Hibernate, SQL, Spring Boot
-- 📫 How to reach me: adityasinghskit@gmail.com
-- 🌱 Sharing updates on [LinkedIn](https://www.linkedin.com/in/adityasinghskit/).
+- 💬 Ask me about: Java, JS, Hibernate, SQL, Spring Boot, HTML, CSS, JS
 
 ## Tech Stack
 ![view - Documentation](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
@@ -33,5 +31,5 @@ Hritik, APJ Abdul Kalam, Ratan Tata my inspiration.
 [![view - Documentation](https://img.shields.io/badge/Gmail-f86624?style=for-the-badge&logo=gmail)](mailto:adityasinghskit@gmail.com)
 
 ## Github Stats
-![github stats](https://github-readme-stats.vercel.app/api?username=adityasinghskit)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityasinghskit)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=adityasinghskit&count_private=true&theme=tokyonight&showicons=true)]()<br>
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=adityasinghskit&langs_count=5&theme=tokyonight)]()
