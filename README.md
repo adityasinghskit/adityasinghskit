@@ -31,3 +31,7 @@ Hritik, APJ Abdul Kalam, Ratan Tata my inspiration.
 [![view - Documentation](https://img.shields.io/badge/Twitter-662e9b?style=for-the-badge&logo=twitter)](https://twitter.com/adityasingh2303)
 [![view - Documentation](https://img.shields.io/badge/Porfolio-ea3546?style=for-the-badge&logo=readthedocs)](https://adityaportfolio.dorik.io/)
 [![view - Documentation](https://img.shields.io/badge/Gmail-f86624?style=for-the-badge&logo=gmail)](mailto:adityasinghskit@gmail.com)
+
+## Github Stats
+![github stats](https://github-readme-stats.vercel.app/api?username=adityasinghskit)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityasinghskit)
