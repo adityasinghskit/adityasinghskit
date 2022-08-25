@@ -6,9 +6,11 @@ Hritik, APJ Abdul Kalam, Ratan Tata my inspiration.
 - 💬 Ask me about: Java, JS, Hibernate, SQL, Spring Boot, HTML, CSS, JS
 
 ## Tech Stack
-![view - Documentation](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+![view - Documentation](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=gitea)
 ![view - Documentation](https://img.shields.io/badge/Hibernate-blue?style=for-the-badge&logo=hibernate)
 ![view - Documentation](https://img.shields.io/badge/Mysql-ffca3a?style=for-the-badge&logo=mysql)
+![view - Documentation](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven)
+![view - Documentation](https://img.shields.io/badge/Swagger-white?style=for-the-badge&logo=swagger)
 ![view - Documentation](https://img.shields.io/badge/Spring_Boot-purple?style=for-the-badge&logo=appveyor)
 ![view - Documentation](https://img.shields.io/badge/Rest_API-80aaed?style=for-the-badge&logo=fastapi)
 ![view - Documentation](https://img.shields.io/badge/Postman-ff595e?style=for-the-badge&logo=postman)
