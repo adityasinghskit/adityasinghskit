@@ -4,6 +4,7 @@ Hritik, APJ Abdul Kalam, Ratan Tata my inspiration.
 
 - 🌱 I’m currently learning Springboot
 - 💬 Ask me about: Java, JS, Hibernate, SQL, Spring Boot, HTML, CSS, JS
+- 📖 Read my blogs [here](https://medium.com/@hereaditya).
 
 ## Tech Stack
 ![view - Documentation](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=gitea)
