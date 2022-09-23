@@ -1,8 +1,7 @@
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"> I'm Aditya <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="40px">
-I am a Backend Developer and work with Java, Spring boot, Hibernate, SQL, HTML, CSS, Javascript, and Data Structures. I am a team player and believe all great things are built by great teams. The way internet has transformed India in the past decade and a half is facinating. UPI has truly transformed the way we make payments. My aim is to be part of a team that makes the next UPI. I am a dedicated individual and will be a valuable part of your organisation.<br>
-Hritik, APJ Abdul Kalam, Ratan Tata my inspiration.
+I am a Java Developer and works with Java, Spring boot, Hibernate, SQL, HTML, CSS, Javascript, and Data Structures📖. I am a team player and have been part of several collaboartive projects😊. I am interested in backend as well as frontend technologies and passionate about learning new tech. APJ Abdul Kalam and Ratan Tata are my idols❤️.<br>
 
-- 🌱 I’m currently learning Springboot
+- 🌱 Java Developer
 - 💬 Ask me about: Java, JS, Hibernate, SQL, Spring Boot, HTML, CSS, JS
 - 📖 Read my blogs on [Medium](https://medium.com/@hereaditya).
 
