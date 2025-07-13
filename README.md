@@ -1,9 +1,9 @@
 ![AdityaCover](https://user-images.githubusercontent.com/68966858/191962868-452c3da3-e1ad-42ff-8cce-426e879f495c.png)
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"> I'm Aditya <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="40px">
-A Java Developer and works with Java, Spring boot, Hibernate, SQL, HTML, CSS, Javascript, and Data Structures📖. A team player and have been part of several collaboartive projects😊. Interested in backend as well as frontend technologies. Looking forward to working in a product based company and scale new heights❤️.<br>
+A Java Full Stack Developer and works on Java, Spring Boot, Angular, AWS, DevOps, and Data Structures📖. A team player and have been part of several collaboartive projects😊. Interested in backend as well as frontend technologies. Looking forward to working in a product based company and scale new heights❤️.<br>
 
-- 🌱 Java Developer
-- 💬 Ask me about: Java, JS, Hibernate, SQL, Spring Boot, HTML, CSS, JS
+- 🌱 Java Full Stack Developer
+- 💬 Ask me about: Java, Spring Boot, Angular, AWS, DevOps, JS, Hibernate, SQL, Spring Boot, HTML, CSS
 - 📖 Read my blogs on [Medium](https://medium.com/@hereaditya).
 
 ## Tech Stack
